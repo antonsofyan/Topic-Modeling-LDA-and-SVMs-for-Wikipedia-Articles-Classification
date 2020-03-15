@@ -1,6 +1,6 @@
 # Topic Modeling (Latent Dirichlet Allocation) for Wikipedia Articles Classification
 
-In this work, we aim is to develop a binary classifier that allows discriminating between the documents of two different categories of articles on the English Wikipedia. For this, the Latent Dirichlet Allocation (LDA) algorithm  will be used to obtain the topics of each article and a Support Vector Machine (SVM) classifier will be used.
+In this work, we aim to develop a binary classifier that allows discriminating between the documents of two different categories of articles on the English Wikipedia. For this, the Latent Dirichlet Allocation (LDA) algorithm is used to obtain the topics of each article and a Support Vector Machine (SVM) classifier to distinguish the articles from the distribution of LDA topics.
 
 The steps to follow are following:
 
