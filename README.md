@@ -12,3 +12,7 @@ The steps to follow are:
 The two selected subcategories belong to the Quantity category of Wikipedia. These are:
 - Physical quantities
 - Vacuum tubes
+
+## Acknowledgements 
+
+University Carlos III of Madrid, Data Processing.
